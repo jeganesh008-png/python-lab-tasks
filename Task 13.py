@@ -1,0 +1,6 @@
+list1 = [9,8,7,6,5]
+
+num = int(input("Enter a number: "))
+
+print("num in list1:", num in list1)
+print("num not in list1:", num not in list1)

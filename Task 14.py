@@ -1,0 +1,9 @@
+a = int(input("enter number of a :"))
+b = int(input("enter number of b :"))
+c = int(input("enter number of c :"))
+
+print("Addition and Multiplication:", a + b * c)
+print("Using Parentheses:", (a + b) * c)
+print("Division and Addition:", a + b / c)
+print("Subtraction:", a - b - c)
+print("Power:", a ** b ** c)

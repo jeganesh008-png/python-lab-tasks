@@ -1,0 +1,7 @@
+a = [4,5,7]
+b = a
+c = [4,5,7]
+
+print("a is b:", a is b)
+print("a is c:", a is c)
+print("a is not c:", a is not c)
